@@ -1,19 +1,19 @@
-# :octocat: Bruno Cardoso
+### :octocat: Bruno Cardoso
 
 Meu nome é Bruno Cardoso, trabalho com desenvolvimento mobile com foco em Android/Kotlin.
 
-### :white_check_mark: Skills
+### Skills
 
 - Kotlin
 - Git
 - Swift
 - React Native
 
-### :books: Estudando 
+### Estudando 
 
-- Deploy Automatizado
-- Testes Instrumental no Android
-- Integração Continua
+- :books: Deploy Automatizado
+- :books: Testes Instrumental no Android
+- :books: Integração Continua
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bruunoh)](https://github.com/bruunoh)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoh/)](https://www.linkedin.com/in/brunoh/)
