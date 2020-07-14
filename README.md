@@ -1,4 +1,4 @@
-## :octocat: Bruno Cardoso
+# Olá :metal:,
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bruunoh)](https://github.com/bruunoh)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoh/)](https://www.linkedin.com/in/brunoh/)
@@ -9,15 +9,6 @@
 
 Meu nome é Bruno Cardoso, trabalho com desenvolvimento mobile com foco em Android/Kotlin.
 
-#### Skills
-
-- :ballot_box_with_check: Kotlin
-- :ballot_box_with_check: Git
-- :ballot_box_with_check: Swift
-- :ballot_box_with_check: React Native
-
-#### Estudando 
-
-- :books: Deploy Automatizado
-- :books: Testes Instrumental no Android
-- :books: Integração Continua
+- :ballot_box_with_check: Kotlin, Git, Swift, React Native
+- :ballot_box_with_check: HTML5, CSS3, JS, SASS
+- :books: Estudando Deploy Automatizado, Testes Instrumental e Integração Continua.
